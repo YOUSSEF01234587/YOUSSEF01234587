@@ -22,6 +22,14 @@ Here you will find some of the projects that I am working on, including:
 - **SQL Queries** for data extraction and manipulation
 - **Data Analysis in Excel** (Formulas, Pivot Tables, Data Visualization)
 
+
+## Education
+
+- 🎓 **Bachelor's Degree in Artificial Intelligence**  
+  Delta University for Science and Technology  
+  *(Expected Graduation: 2028)*
+
+
 ## Tools and Technologies
 
 I specialize in cleaning, analyzing, and visualizing data. Here are the tools and libraries I use:
