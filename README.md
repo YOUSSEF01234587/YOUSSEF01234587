@@ -2,9 +2,15 @@
 
 👋 Hi there! Welcome to my GitHub profile.
 
-I am a **Data Analyst** passionate about turning data into actionable insights. I am constantly learning and improving my skills to become a **Data Scientist**.
+I am a **Data Analyst** passionate about turning data into actionable insights and solving real-world problems using data. I am constantly learning and improving my skills to become a **Data Scientist**.
 
-This repository is where I store various **Data Analysis** projects, from data cleaning and analysis to data visualization using tools like **Python**, **SQL**, **Tableau**, **Excel**, and **Power BI**.
+This GitHub profile showcases my data analysis projects, focusing on real-world datasets and business-oriented insights, from data cleaning and analysis to data visualization using tools like **Python**, **SQL**, **Tableau**, **Excel**, and **Power BI**.
+
+
+## Featured Project
+- 📊 **Orders & Revenue Insights**
+  👉 https://github.com/YOUSSEF01234587/Project_1  
+  *A comprehensive exploratory data analysis project focused on revenue trends, customer behavior, and geographical performance.*
 
 ## Projects
 
@@ -27,7 +33,7 @@ I specialize in cleaning, analyzing, and visualizing data. Here are the tools an
 - **Libraries & Frameworks**:
   - **Data Cleaning & Manipulation**: Pandas, NumPy
   - **Data Visualization**: Matplotlib, Seaborn
-  - **Machine Learning**: Scikit-learn, TensorFlow, Keras
+  - **Machine Learning (Basic)**: Scikit-learn
   - **Statistical Analysis**: SciPy, Statsmodels
   - **SQL**: Writing complex queries for data extraction and manipulation
   - **Visualization Tools**: Tableau, Power BI, Excel
@@ -38,21 +44,9 @@ I specialize in cleaning, analyzing, and visualizing data. Here are the tools an
   - **Tableau**: Building interactive data visualizations and business intelligence solutions.
   - **Excel**: Working with large datasets, formulas, pivot tables, and charts.
 
-## Projects Examples
-
-Feel free to explore some of the projects I'm working on:
-- **Data Cleaning with Python**: Using Pandas and NumPy to clean and preprocess datasets.
-- **Exploratory Data Analysis (EDA)**: Data exploration and visualization using Matplotlib and Seaborn.
-- **Machine Learning Models**: Building predictive models with Scikit-Learn, TensorFlow, and Keras.
-- **Statistical Testing**: Performing T-tests, ANOVA, and other statistical tests using SciPy and Statsmodels.
-- **Power BI Dashboards**: Developing interactive and dynamic reports for business use cases.
-- **Tableau Dashboards**: Designing visually appealing and insightful dashboards.
-- **Excel**: Leveraging Excel to analyze data, create complex formulas, and use pivot tables.
-
-Feel free to browse through my repositories and explore the code and results. If you have any questions or would like to collaborate, don’t hesitate to reach out!
-
 ---
 
 📫 **How to reach me**:
+- Email: ym991955@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/youssef-talaat-278ba5230)
 - [Kaggle](https://www.kaggle.com/youseefmohamed1212)
