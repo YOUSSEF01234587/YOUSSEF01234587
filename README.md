@@ -47,6 +47,6 @@ I specialize in cleaning, analyzing, and visualizing data. Here are the tools an
 ---
 
 📫 **How to reach me**:
-- Email: ym991955@gmail.com
+- 📧 [ym991955@gmail.com](mailto:ym991955@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/youssef-talaat-278ba5230)
 - [Kaggle](https://www.kaggle.com/youseefmohamed1212)
