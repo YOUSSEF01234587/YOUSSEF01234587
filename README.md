@@ -6,11 +6,15 @@ I am a **Data Analyst** passionate about turning data into actionable insights a
 
 This GitHub profile showcases my data analysis projects, focusing on real-world datasets and business-oriented insights, from data cleaning and analysis to data visualization using tools like **Python**, **SQL**, **Tableau**, **Excel**, and **Power BI**.
 
+---
 
 ## Featured Project
-- 📊 **Orders & Revenue Insights**
+
+- 📊 **Orders & Revenue Insights**  
   👉 https://github.com/YOUSSEF01234587/Project_1  
   *A comprehensive exploratory data analysis project focused on revenue trends, customer behavior, and geographical performance.*
+
+---
 
 ## Projects
 
@@ -22,6 +26,7 @@ Here you will find some of the projects that I am working on, including:
 - **SQL Queries** for data extraction and manipulation
 - **Data Analysis in Excel** (Formulas, Pivot Tables, Data Visualization)
 
+---
 
 ## Education
 
@@ -29,32 +34,33 @@ Here you will find some of the projects that I am working on, including:
   Delta University for Science and Technology  
   *(Expected Graduation: 2028)*
 
+---
 
 ## Tools and Technologies
 
 I specialize in cleaning, analyzing, and visualizing data. Here are the tools and libraries I use:
 
-- **Programming Languages**:
-  - Python
-  - SQL
+### Programming Languages
+- Python
+- SQL
 
-- **Libraries & Frameworks**:
-  - **Data Cleaning & Manipulation**: Pandas, NumPy
-  - **Data Visualization**: Matplotlib, Seaborn
-  - **Machine Learning (Basic)**: Scikit-learn
-  - **Statistical Analysis**: SciPy, Statsmodels
-  - **SQL**: Writing complex queries for data extraction and manipulation
-  - **Visualization Tools**: Tableau, Power BI, Excel
-  - **Other Tools**: Jupyter Notebook, Git
+### Libraries & Frameworks
+- **Data Cleaning & Manipulation**: Pandas, NumPy
+- **Data Visualization**: Matplotlib, Seaborn
+- **Machine Learning (Basic)**: Scikit-learn
+- **Statistical Analysis**: SciPy, Statsmodels
+- **SQL**: Writing complex queries for data extraction and manipulation
+- **Visualization Tools**: Tableau, Power BI, Excel
+- **Other Tools**: Jupyter Notebook, Git
 
-- **Business Intelligence Tools**:
-  - **Power BI**: Creating interactive dashboards and reports.
-  - **Tableau**: Building interactive data visualizations and business intelligence solutions.
-  - **Excel**: Working with large datasets, formulas, pivot tables, and charts.
+### Business Intelligence Tools
+- **Power BI**: Creating interactive dashboards and reports
+- **Tableau**: Building interactive data visualizations and BI solutions
+- **Excel**: Working with large datasets, formulas, pivot tables, and charts
 
 ---
 
-📫 **How to reach me**:
+📫 **How to reach me**
 - 📧 [ym991955@gmail.com](mailto:ym991955@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/youssef-talaat-278ba5230)
 - 📊 [Kaggle](https://www.kaggle.com/youseefmohamed1212)
